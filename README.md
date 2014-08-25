@@ -5,6 +5,7 @@ This is a wp-config replacement for Wordpress on Multiple Environment.
 
 
 ### apache httpd setting
+setting WP_ENV envrionment variable per Virtual Host
 
 ```apache
 LoadModule env_module modules/mod_env.so
